@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./portfolio-1.png" alt="DBMS Overview" width="600px"/>
+  <img src="./portfolio.jpg" alt="DBMS Overview" width="600px"/>
 </p>
 
 
