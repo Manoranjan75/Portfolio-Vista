@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./portfolio-1.png" alt="DBMS Overview" width="600px"/>
+</p>
+
+
 # My Portfolio Website
 
 Welcome to my personal portfolio website, showcasing my skills, experience, and projects. This website is built using **HTML**, **CSS**, and **JavaScript**. It is designed to be responsive across different devices using **media queries**.
